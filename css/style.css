@@ -1,0 +1,31 @@
+:root {
+    font-size: 18px;
+}
+body {
+  color: #212121;
+}
+a {
+color: blue;
+header {
+font-size: 14px;
+}
+
+
+
+ol li {
+  border: 1px solid red;
+}
+
+header a {
+  color: #616161;
+  }
+h1 {
+font-size: 60px;
+}
+h2 {
+  font-size: 2em;
+}
+h3 {
+font-size: 1.5em
+}
+
